@@ -20,7 +20,7 @@ You can and should learn new skills during the process, you may consult with Goo
 
 
 ### Task 1 - Image Actions
-Each image has two buttons that appear on mouse hover. You need to make them work.
+Each image has three buttons that appear on mouse hover. You need to make them work.
 1. Delete: clicking the delete button should remove the image from the display. 
 2. Rotate: each click should rotate the image by 90 degrees.
 
