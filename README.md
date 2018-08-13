@@ -1,7 +1,7 @@
 # Flickr Gallery
 
 Welcome to the Flickr Gallery application.
-This app is simple, you write a tag at the top and you get images from flickr with that tag.
+This app is a simple gallery application that displays images in a grid. The images are retrieved using the Flickr API to fetch images by a tag.
 
 
 ## Getting Started
@@ -14,13 +14,13 @@ To set up the test environment and get this app running locally all you need to 
 6. Your local app should be available at `http://localhost:8000`
 
 ## Your Tasks
-This project includes 2 main tasks. The first 2 parts of each task are mandatory and there is a bonus part for each.
+This project includes 3 main tasks. besides the bonus questions, all tasks are mandatory.
 You can and should learn new skills during the process, you may consult with Google and friends but you will need to explain why you implemented what you implemented, so be responsible for your code. 
 *Important:* please make sure to commit after each task - for example, after finishing task 1 delete, commmit the files with a relevant message: "task 1 - delete image", and so on.
 
 
 ### Task 1 - Image Actions
-Each image has three buttons that appear on mouse hover. You need to make them work.
+Each image has two buttons that appear on mouse hover. You need to make them work.
 1. Delete: clicking the delete button should remove the image from the display. 
 2. Rotate: each click should rotate the image by 90 degrees.
 
@@ -29,7 +29,7 @@ Each image has three buttons that appear on mouse hover. You need to make them w
 
 ### Task 2 - Gallery Actions
 1. Responsive:  the gallery adjusts the size of each image so that all the images will fit into the screen without margin. However, when the window is resized, the images are not fitted so well. Make sure the images are always adjusted to the window width.
-2. Infinite Scroll: currently the gallery displays only 100 images. *Create* a mechanism that loads more images from flickr when the user is scrolling past the last image. BONUS - implemant the infinite scroll mechanism yourself.
+2. Infinite Scroll: currently the gallery displays only 100 images. *Create* a mechanism that loads more images from flickr when the user is scrolling past the last image. BONUS - implemant the infinite scroll mechanism by yourself (no npm package).
 
 #### Bonus:
 3. Drag & Drop: let your users choose the order of the images by adding an option to drag & drop images to their new position.
