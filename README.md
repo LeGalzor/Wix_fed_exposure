@@ -31,17 +31,23 @@ Each image has three buttons that appear on mouse hover. You need to make them w
 
 ### Task 2 - Gallery Actions
 1. Responsive:  the gallery adjusts the size of each image so that all the images will fit into the screen without margin. However, when the window is resized, the images are not fitted so well. Make sure the images are always adjusted to the window width.
-2. Infinite Scroll: currently the gallery displays only 100 images. *Create* a mechanism that loads more images from flickr when the user is scrolling past the last image.
+2. Infinite Scroll: currently the gallery displays only 100 images. *Create* a mechanism that loads more images from flickr when the user is scrolling past the last image. BONUS - implemant the infinite scroll mechanism yourself.
 
 #### Bonus:
 3. Drag & Drop: let your users choose the order of the images by adding an option to drag & drop images to their new position.
 
+### Task 3 - Add a custom feature
+- This is your chance to get creative. Add a new, **cool and innovative** feature to the gallery. **Note:** All preceding tasks should still work.
+
+### Bonus task
+- If possible, write tests for every new feature you write (tests are written in spec.js files)
+
 ## Tips / Notes
 - All the code you'll change / add will be in the `/src/components` folder.
-- If you are new to web development, you may skip the bonus questions. If you have the required skills, you should complete the bonus tasks too.
 - Think about the product you create, try inovating the user interface, you don't have to create the exact solution as it is in the video. Take it to the next level by customizing the looks and adding new features! **be creative, creative is good**.
+- If possible, write tests for every new feature you write (tests are written in spec.js files)
 - You can view a working example of the gallery [here](https://youtu.be/8rgufa8l0c4)
-- The infinite scroll mechanism should not be imported via NPM. You should do it yourself. If you want to use `npm` modules for other parts, your choice - just make sure you know how they work under the hood.
+- If you want to use `npm` modules for other parts, your choice - just make sure you know how they work under the hood.
 
 #### Remember: this test is designed to see how you complete tasks that require self learning, not to test your existing knowledge.
 
