@@ -7,7 +7,7 @@ This app is a simple gallery application that displays images in a grid. The ima
 ## Getting Started
 To set up the test environment and get this app running locally all you need to do is:
 1. Make sure you have a [Gitlab](https://gitlab.org) account
-2. [Import this repository](https://docs.gitlab.com/ee/user/project/import/repo_by_url.html) to your Gitlab account as a private repository. Use this as the import URL: https://github.com/wix-incubator/flickr-gallery-exam
+2. [Import this repository](https://docs.gitlab.com/ee/user/project/import/repo_by_url.html) to your Gitlab account as a private repository. Use this as the import URL: https://github.com/wix-incubator/exposure-fed-exam
 3. Clone your newly created repository
 4. In the created folder install the node modules `npm install`
 5. Run the app `npm start`
