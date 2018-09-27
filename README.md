@@ -19,7 +19,7 @@ You can and should learn new skills during the process, you may consult with Goo
 
 *Important:* Please make sure to commit after each task - for example, after finishing task 1 delete, commmit the files with a relevant message: "task 1 - delete image", and so on.
 
-*Important 2:* This task come with a working set of test (run `npm test`). Make sure the test pass when you're done (change the tests if needed)
+*Important 2:* This task come with a working set of test (run `npm test`). Make sure all the tests pass when you're done (change the tests if needed)
 
 
 ### Task 1 - Image Actions
