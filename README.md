@@ -17,15 +17,16 @@ To set up the test environment and get this app running locally all you need to 
 This project includes 3 main tasks. besides the bonus questions, all tasks are mandatory.
 You can and should learn new skills during the process, you may consult with Google and friends but you will need to explain why you implemented what you implemented, so be responsible for your code. 
 
-*Important:* Please make sure to commit after each task - for example, after finishing task 1 delete, commmit the files with a relevant message: "task 1 - delete image", and so on.
+*Important:* Please make sure to commit after each task - for example, after finishing task 1 (flip), commmit the files with a relevant message: "task 1 - flip image", and so on.
 
-*Important 2:* This task come with a working set of test (run `npm test`). Make sure all the tests pass when you're done (change the tests if needed)
+*Important 2:* This task comes with a working set of test (run `npm test`). Make sure all the tests pass when you're done (change the tests if needed)
 
 
 ### Task 1 - Image Actions
 Each image has three buttons that appear on mouse hover. You need to make them work.
-1. Clone: clicking the clone button should duplicate the image. 
-2. Flip: clicking the flip button should flip the image (like a mirror).
+1. Flip: clicking the flip button should flip the image horizontally (like a mirror).
+2. Clone: clicking the clone button should duplicate the image. 
+
 
 #### Bonus:
 3. Expand: clicking an image should display this image in a larger view.
@@ -43,12 +44,11 @@ Each image has three buttons that appear on mouse hover. You need to make them w
 - This is your chance to get creative. Add a new, **cool and innovative** feature to the gallery. **Note:** All preceding tasks should still work.
 
 ### Bonus task
-- Write tests for every new feature you write (tests are written in spec.js files)
+- Write tests for every new feature you write (tests are written with `.spec.js` suffix)
 
 ## Tips / Notes
 - All the code you'll change / add will be in the `/src/components` folder.
-- Think about the product you create, try innovating the user interface, you don't have to create the exact solution as it is in the video. Take it to the next level by customizing the looks and adding new features! **be creative, creative is good**.
-- You can view a working example of the gallery [here](https://youtu.be/8rgufa8l0c4)
+- Think about the product you create, try innovating the user interface. Take it to the next level by customizing the looks and adding new features! **be creative, creative is good**.
 - If you want to use `npm` modules for other parts, your choice - just make sure you know how they work under the hood.
 
 #### Remember: this test is designed to see how you complete tasks that require self learning, not to test your existing knowledge.
