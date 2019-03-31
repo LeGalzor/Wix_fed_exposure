@@ -24,14 +24,16 @@ You can and should learn new skills during the process, you may consult with Goo
 
 ### Task 1 - Image Actions
 Each image has three buttons that appear on mouse hover. You need to make them work.
-1. Delete: clicking the delete button should remove the image from the display. 
-2. Rotate: each click should rotate the image by 90 degrees.
+1. Clone: clicking the clone button should duplicate the image. 
+2. Flip: clicking the flip button should flip the image (like a mirror).
 
 #### Bonus:
 3. Expand: clicking an image should display this image in a larger view.
 
 ### Task 2 - Gallery Actions
-1. Responsive:  the gallery adjusts the size of each image so that all the images will fit into the screen without margins. However, when the window is resized, the images are not fitted so well. Make sure the images are always adjusted to the window width.
+1. Favorites: add functionality which enables the user to select their favorite images.  
+   * should be persistent - refreshing or closing the site will not reset the favorites
+   * provide UI for viewing all the favorites 
 2. Infinite Scroll: currently the gallery displays only 100 images. *Create* a mechanism that loads more images from flickr when the user is scrolling past the last image. BONUS - implement the infinite scroll mechanism by yourself (no npm package).
 
 #### Bonus:
