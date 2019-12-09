@@ -1,5 +1,8 @@
 .gallery-root {
   text-align: center;
+  overflow-y: scroll;
+  overflow: auto;
+  max-height: 100vh;
 }
 
 .gallery-header {
