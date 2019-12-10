@@ -22,7 +22,7 @@ You can and should learn new skills during the process, you may consult with Goo
 *Important 2:* This task comes with a working set of test (run `npm test`). Make sure all the tests pass when you're done (change the tests if needed)
 
 
-### Task 1 - Image Actions
+~### Task 1 - Image Actions
 Each image has three buttons that appear on mouse hover. You need to make them work.
 1. Flip: clicking the flip button should flip the image horizontally (like a mirror).
 2. Clone: clicking the clone button should duplicate the image. 
@@ -33,9 +33,9 @@ Each image has three buttons that appear on mouse hover. You need to make them w
 
 ### Task 2 - Gallery Actions
 1. Favorites: add functionality which enables the user to select their favorite images.  
-   * should be persistent - refreshing or closing the site will not reset the favorites
+   * should be persistent - refreshing or closing the site will not reset the favorites~
    * provide UI for viewing all the favorites 
-2. Infinite Scroll: currently the gallery displays only 100 images. *Create* a mechanism that loads more images from flickr when the user is scrolling past the last image. BONUS - implement the infinite scroll mechanism by yourself (no npm package).
+~2. Infinite Scroll: currently the gallery displays only 100 images. *Create* a mechanism that loads more images from flickr when the user is scrolling past the last image. BONUS - implement the infinite scroll mechanism by yourself (no npm package).~
 
 #### Bonus:
 3. Drag & Drop: let your users choose the order of the images by adding an option to drag & drop images to their new position.
