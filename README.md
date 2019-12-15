@@ -33,7 +33,8 @@ Each image has three buttons that appear on mouse hover. You need to make them w
 3. Expand: clicking an image should display this image in a larger view.
 
 ### Task 2 - Gallery Actions
-~~1. Favorites: add functionality which enables the user to select their favorite images.  
+Favoriting an Image is by double clicking an Image while being expanded, can be verified with chrome application local storage.
+~~1. Favorites: add functionality which enables the user to select their favorite images.   
    * should be persistent - refreshing or closing the site will not reset the favorites~
    * provide UI for viewing all the favorites 
    Gal's comment: "Altough the favorites persist the UI is still not there yet ¯\_(ツ)_/¯
